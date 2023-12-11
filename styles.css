@@ -22,8 +22,10 @@ header {
 
 .box1 {
     background-color: #8a6fdf;
-    
     height: 500px;
+    display: flex;
+    align-items: top;
+    justify-content: center;
 }
 
 .box2 {
