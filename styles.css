@@ -1,3 +1,43 @@
 body {
     background-color: #abe10c;
 }
+
+header {
+    background-color: hotpink;
+    padding: 10px 0px 10px 0px;
+}
+
+.section-one {
+    background-color: blueviolet;
+}
+
+.flexgrow-container {
+    display: flex;
+}
+
+.box1 {
+    background-color: #8a6fdf;
+    
+    height: 200px;
+    flex: 1 1 auto;
+}
+
+.box2 {
+
+    background-color: #ffdb15;
+    
+    height: 200px;
+    flex: 1 1 auto;
+}
+
+.box3 {
+
+    background-color: #ff5765;
+    
+    height: 200px;
+    flex: 1 1 auto;
+}
+
+iframe { 
+    padding: 5px;
+}
