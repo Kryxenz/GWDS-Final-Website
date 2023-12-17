@@ -31,17 +31,38 @@ header {
 .box2 {
 
     background-color: #ffdb15;
-    
-    height: 200px;
+    height: 433px;
+    display: flex;
+    align-items: top;
+    justify-content: center;
 }
 
 .box3 {
 
     background-color: #ff5765;
-    
-    height: 200px;
+    height: 600px;
+    display: flex;
+    align-items: top;
+    justify-content: center;
 }
 
 iframe { 
     padding: 5px;
+}
+
+.poster1 {
+    background-color: #8a6fdf;
+    height: 500px;
+    display: flex;
+    align-items: top;
+    justify-content: left;
+}
+
+.poster1img {
+    margin-top: 50px;
+    margin-left: -65px;
+}
+
+h3 {
+    margin-left: 20px;
 }
