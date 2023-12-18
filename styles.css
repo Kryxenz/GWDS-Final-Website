@@ -29,7 +29,6 @@ header {
 }
 
 .box2 {
-
     background-color: #ffdb15;
     height: 433px;
     display: flex;
@@ -59,10 +58,82 @@ iframe {
 }
 
 .poster1img {
-    margin-top: 50px;
-    margin-left: -65px;
+    margin-top: 75px;
+    margin-left: -105px;
 }
 
 h3 {
     margin-left: 20px;
+    white-space: nowrap;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+p {
+    align-items: left;
+    margin-top: 75px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+}
+
+.axialimg {
+    margin-top: 75px;
+    margin-left: -65px;
+}
+
+.typobox1 {
+    background-color: #ffdb15;
+    height: 500px;
+    display: flex;
+    align-items: top;
+    justify-content: left;
+}
+
+.typoimg1 {
+    margin-top: 75px;
+    margin-left: -80px;
+}
+
+.typobox2 {
+    background-color: #ff5765;
+    height: 500px;
+    display: flex;
+    align-items: top;
+    justify-content: left;
+}
+
+.typoimg2 {
+    margin-top: 75px;
+    margin-left: -125px;
+}
+
+.typobox3 {
+    background-color: #8a6fdf;
+    height: 500px;
+    display: flex;
+    align-items: top;
+    justify-content: left;
+}
+
+.typoimg3 {
+    margin-top: 75px;
+    margin-left: -60px;
+}
+
+.typobox4 {
+    background-color: #ffdb15;
+    height: 500px;
+    display: flex;
+    align-items: top;
+    justify-content: left;
+}
+
+.typoimg4 {
+    margin-top: 75px;
+    margin-left: -110px;
 }
