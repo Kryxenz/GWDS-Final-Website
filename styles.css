@@ -22,7 +22,7 @@ header {
 
 .box1 {
     background-color: #8a6fdf;
-    height: 500px;
+    height: 550px;
     display: flex;
     align-items: top;
     justify-content: center;
@@ -30,7 +30,7 @@ header {
 
 .box2 {
     background-color: #ffdb15;
-    height: 433px;
+    height: 533px;
     display: flex;
     align-items: top;
     justify-content: center;
@@ -39,7 +39,7 @@ header {
 .box3 {
 
     background-color: #ff5765;
-    height: 600px;
+    height: 700px;
     display: flex;
     align-items: top;
     justify-content: center;
@@ -136,4 +136,56 @@ p {
 .typoimg4 {
     margin-top: 75px;
     margin-left: -110px;
+}
+
+h4 {
+    font-size: 25px;
+    white-space: nowrap;
+}
+
+.codingbox1 {
+    background-color: #8a6fdf;
+    height: 400px;
+    display: flex;
+    align-items: top;
+    justify-content: left;
+}
+
+.worksheet1 {
+    margin-top: 75px;
+    margin-left: -465px;
+}
+
+p2 {
+    align-items: left;
+    margin-top: 75px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+}
+
+.codingbox2 {
+    background-color: #ffdb15;
+    height: 900px;
+    display: flex;
+    align-items: top;
+    justify-content: left;
+}
+
+.worksheet2 {
+    margin-top: 75px;
+    margin-left: -325px;
+}
+
+.codingbox3 {
+    background-color: #ff5765;
+    height: 750px;
+    display: flex;
+    align-items: top;
+    justify-content: left;
+}
+
+.worksheet3 {
+    margin-top: 75px;
+    margin-left: -225px;
 }
